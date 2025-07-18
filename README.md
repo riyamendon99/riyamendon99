@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Mendon</h1>
-<h4 align="center">I am Riya Mendon, a driven and detail-oriented computer science graduate student at Arizona State University with a solid foundation in both theoretical concepts and practical application. I have honed my skills in software development, machine learning, data engineering and salesforce development. From automating administrative tasks to implementing machine learning models, my journey reflects a commitment to innovation, collaboration, and delivering tangible results.</h4>
+<h3 align="center">I am Riya Mendon, a driven and detail-oriented computer science graduate student at Arizona State University with a solid foundation in both theoretical concepts and practical application. I have honed my skills in software development, machine learning, data engineering and salesforce development. From automating administrative tasks to implementing machine learning models, my journey reflects a commitment to innovation, collaboration, and delivering tangible results.</h3>
 
 
 - 📫 How to reach me **riya.mendon01@gmail.com**
